@@ -1,0 +1,27 @@
+{
+  "name": "flexible-lib",
+  "version": "1.0.2",
+  "description": "flexible",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack --config=build.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigboxs/flexible-lib.git"
+  },
+  "keywords": [
+    "flexible"
+  ],
+  "author": "bigboxs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigboxs/flexible-lib/issues"
+  },
+  "homepage": "https://github.com/bigboxs/flexible-lib#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
