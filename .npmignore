@@ -8,4 +8,6 @@ tsconfig.eslint.json
 .travis.yml
 jest.config.js
 tsconfig.json
+build.config.js
 LICENSE
+README.md
